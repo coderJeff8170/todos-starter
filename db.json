@@ -1,0 +1,80 @@
+{
+  "todos": [
+    {
+      "title": "eating apple",
+      "completed": false,
+      "id": 2,
+      "subtasks": [
+        {
+          "id": 1,
+          "taskDetail": "open mouth"
+        },
+        {
+          "id": 2,
+          "taskDetail": "take bite"
+        },
+        {
+          "id": 3,
+          "taskDetail": "swallow"
+        }
+      ]
+    },
+    {
+      "title": "go shopping",
+      "completed": false,
+      "id": 6,
+      "subtasks": [
+        {
+          "id": 1,
+          "taskDetail": "drive to store"
+        },
+        {
+          "id": 2,
+          "taskDetail": "get groceries"
+        },
+        {
+          "id": 3,
+          "taskDetail": "checkout"
+        }
+      ]
+    },
+    {
+      "title": "puke",
+      "completed": false,
+      "id": 9,
+      "subtasks": [
+        {
+          "id": 1,
+          "taskDetail": "open mouth"
+        },
+        {
+          "id": 2,
+          "taskDetail": "retch"
+        },
+        {
+          "id": 3,
+          "taskDetail": "vomit"
+        }
+      ]
+    },
+    {
+      "title": "do laundry",
+      "completed": false,
+      "id": 10,
+      "subtasks": [
+        {
+          "id": 1,
+          "taskDetail": "put clothes in washer"
+        },
+        {
+          "id": 2,
+          "taskDetail": "add soap"
+        },
+        {
+          "id": 3,
+          "taskDetail": "hit start button"
+        }
+      ]
+    }
+  ]
+}
